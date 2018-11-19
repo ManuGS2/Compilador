@@ -1,0 +1,4 @@
+0 micad Cadena
+1 otracad Cadena
+2 flag Bul
+3 numero 

@@ -1,0 +1,11 @@
+[
+	$$Programa de prueba escrito en Pu+
+	Cadena micad, otracad;
+	Bul flag;
+	Cadena flag;
+	micad := "mi cadena de caracteres";
+	Mientras(numero .MNI. 5)[
+		numero := numero + 3.75;
+		flag := Falso;
+	]
+]

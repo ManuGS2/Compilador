@@ -1,0 +1,12 @@
+[
+ Cadena  micad , otracad ;
+ Bul  flag ;
+ Cadena  flag ;
+ micad = "mi cadena de caracteres1 ;
+ Mientras ( numero  <= 5)[
+ numero = numero +3.75;
+ flag = Falso ;
+
+]
+
+]
